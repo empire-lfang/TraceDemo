@@ -1,0 +1,8 @@
+_main
+-[AppDelegate application:didFinishLaunchingWithOptions:]
+-[SceneDelegate window]
+-[SceneDelegate setWindow:]
+-[SceneDelegate scene:willConnectToSession:options:]
+-[ViewController viewDidLoad]
+_test1
+_block_block_invoke
